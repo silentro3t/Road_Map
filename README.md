@@ -41,3 +41,4 @@ If this repo helps you level up, don’t forget to **star** ⭐ it and share wit
 ## 🧠 Reminder
 
 > Learning by doing >>> reading a PDF
+> So stop scrolling — start hacking 🔥
